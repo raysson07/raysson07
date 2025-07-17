@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Raysson Mendes Alquimim, tenho 18 anos e sou natural de Minas Gerais. Sou apaixonado por tecnologia e pelo poder que ela tem de transformar ideias em soluções reais.
+Eu me chamo Raysson Mendes Alquimim, tenho 18 anos e sou natural de Minas Gerais. Sou apaixonado por tecnologia e pelo poder que ela tem de transformar ideias em soluções reais.
 
 Atualmente, estou fazendo o curso Full Stack da Rocketseat, onde estou aprendendo a desenvolver aplicações web do zero, desde os fundamentos do HTML, CSS e JavaScript até tecnologias modernas como React, Node.js e banco de dados.
 
